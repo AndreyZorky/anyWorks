@@ -25,6 +25,7 @@
   display: block;
   width: 80%;
   max-width: 800px;
+  border-radius: 8px;
 }
 
 #caption {
